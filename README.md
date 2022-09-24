@@ -12,7 +12,7 @@ You can use it and upload your own photo or video.
 
 ![photo_yolo](https://github.com/LiganiumInc/Object-Detection-with-YOLOV4/blob/main/yolo_dantopka.png)
 
-A post relative to these photo on my Linkedin [YoloV4 Datokpa Benin](https://www.linkedin.com/posts/bernardin-ligan_deeplearning-cnn-yolov4-activity-6797040610021781505-YROu?utm_source=share&utm_medium=member_desktop)
+A post relative to these photo on my Linkedin [YoloV4 Dantokpa Benin](https://www.linkedin.com/posts/bernardin-ligan_deeplearning-cnn-yolov4-activity-6797040610021781505-YROu?utm_source=share&utm_medium=member_desktop)
 
 * Video Demo <br>
 
