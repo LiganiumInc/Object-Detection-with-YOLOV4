@@ -10,7 +10,7 @@ You can use it and upload your own photo or video.
 
 * Photo Demo : <br>
 
-![photo_yolo](yolo_dantokpa.png)
+![photo_yolo](https://github.com/LiganiumInc/Object-Detection-with-YOLOV4/blob/main/yolo_dantopka.png)
 
 A post relative to these photo on my Linkedin [YoloV4 Datokpa Benin](https://www.linkedin.com/posts/bernardin-ligan_deeplearning-cnn-yolov4-activity-6797040610021781505-YROu?utm_source=share&utm_medium=member_desktop)
 
